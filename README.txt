@@ -1,13 +1,11 @@
 
 TITLE: 
-Luxe - 100% Fully Responsive Free HTML5 template
+Sarah Resort - 100% Fully Responsive Free HTML5 template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by Labib & Esha
+Website: https://www.behance.net/labibzunaedy143  
+https://www.behance.net/dilafroseesha
 
 
 CREDITS:
